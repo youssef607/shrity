@@ -17,8 +17,8 @@ import java.util.List;
 public class AppUserController {
 
 
-    private final AppUserService appUserService;
-    private final AppUserMappper appUserMappper;
+   // private final AppUserService appUserService;
+    //private final AppUserMappper appUserMappper;
 
   //  @GetMapping("")
    // public ResponseEntity<?> finadAlll()
@@ -26,4 +26,7 @@ public class AppUserController {
       //  AppUserDto dtos= appUserMappper.map(appUserService.getOne(1));
         //return  ResponseEntity.ok(dtos);
     //}
+
+
+    ////
 }
